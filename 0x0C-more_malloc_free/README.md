@@ -1,0 +1,1 @@
+In this project we are still learning more about Automatic allocation and Dynamic allocation. In dynamic allocation, we use the function malloc/calloc to allocate a memory space for a date and when the memory is not in used again we use the free function to deallocate the memory space.
